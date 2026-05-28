@@ -1,3 +1,8 @@
+
+
+#comment out every other tasks if you want to run a specific task that requires user input.
+
+
 #Task01:Write a Python program that prints "hello world" in a console.
 print("Hello World")
 
